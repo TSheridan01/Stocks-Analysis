@@ -1,6 +1,6 @@
 # Stocks-Analysis
 
-1)	####Overview: 
+1)	Overview: 
 
 The overview of this project was to provide a way for my client, Steve to show his parents more stock data in a faster more efficient method.
 The challenge was to create a way to loop through the data faster in order to pull data from a larger number of stocks. I was able to improve the logic in order to make the code easier to read and to make it simpler on future collaborators. The code will help Steve and his parents make more sound financial decisions. 
