@@ -16,7 +16,7 @@ Steve's stocks would of returned a higher yield in 2017. He should of not invest
 ![image](https://github.com/TSheridan01/Stocks-Analysis/blob/4618ed66bc0e6da8b3c78b5cbe7966b38744b562/Resources/Vba_Challenge_2017.png)
 
 2018 Timestamp
-![image]([https://github.com/TSheridan01/Stocks-Analysis/blob/fed704f39b14591743a590bd27ab07aef959fdf1/Resources/Vba_Challenge_2018.png)
+![image](https://github.com/TSheridan01/Stocks-Analysis/blob/fed704f39b14591743a590bd27ab07aef959fdf1/Resources/Vba_Challenge_2018.png)
 
 3)
 #What are the advantages or disadvantages of refactoring code?
